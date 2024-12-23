@@ -4,12 +4,12 @@
     "slug": "torhabs-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./src/assets/images/icon.png",
+    "icon": "./assets/logo-completa-fundo-escuro.png",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./src/assets/images/splash-icon.png",
+      "image": "./assets/logo-completa-fundo-escuro.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#333333"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,12 +19,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/logo-completa-fundo-escuro.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/logo-compacta-fundo-escuro.png"
     },
     "scheme": "torhabs-app",
     "experiments": {
